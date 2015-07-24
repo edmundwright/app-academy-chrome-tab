@@ -9,8 +9,8 @@ Links.corners = [
     url: "http://progress.appacademy.io/"
   },
   {
-    title: "Gmail",
-    url: "https://mail.google.com/mail/"
+    title: "Inbox",
+    url: "https://inbox.google.com"
   },
   {
     title: "Github",
